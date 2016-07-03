@@ -4,7 +4,7 @@ var ReactDOM = require('react-dom');
 var HelloWorld = React.createClass({
   render: function() {
     return (
-      <div> Hello Mars! </div>
+      <div> Hello World! </div>
     )
   }
 });
